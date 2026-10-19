@@ -407,7 +407,7 @@ p { margin: 0 0 0.9rem; }
   opacity: 0.85;
   margin-bottom: 1rem;
 }
-.hero-intro { max-width: 60ch; color: var(--muted); font-size: 0.9rem; }
+.hero-intro { max-width: 65ch; color: var(--muted); font-size: 1.05rem; }
 
 .hero-photo-wrap { display: flex; justify-content: center; }
 .hero-photo {

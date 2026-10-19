@@ -1,1 +1,1 @@
-logo
+images and CV
